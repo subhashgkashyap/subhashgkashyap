@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m ＳＵＢＨＡＳＨ Ｇ ＫＡＳＨＹＡＰ</h1>
-<h3 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘢𝘯𝘥 𝘥𝘦𝘴𝘪𝘨𝘯👍</h3>
+<h1 align="center">Hi, I’m Subhash G Kashyap</h1>
+<h3 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | <br> 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘥𝘦𝘴𝘪𝘨𝘯👍🏻</h3>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
