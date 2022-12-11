@@ -18,11 +18,11 @@
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 # 📊GitHub Stats
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&hide_border=true&theme=tokyonight"></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&hide_border=true&theme=dark"></p>
   
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&hide_border=true&show_icons=true&locale=en&theme=tokyonight"></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&hide_border=true&show_icons=true&locale=en&theme=dark"></p>
   
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashgkashyap&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashgkashyap&theme=dark&hide_border=true&include_all_commits=false&count_private=true"></p>
 
 <!---
 subhashgkashyap/subhashgkashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
