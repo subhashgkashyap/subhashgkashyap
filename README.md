@@ -1,28 +1,24 @@
 <h1 align="center">👋 Hi, I’m ＳＵＢＨＡＳＨ Ｇ ＫＡＳＨＹＡＰ</h1>
 <h3 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘢𝘯𝘥 𝘥𝘦𝘴𝘪𝘨𝘯👍</h3>
 
-<h3 align="left">👀 I’m interested in Frontend and Backend Development</h3>
-<h3 align="left">🌱 I’m currently learning Core Java</h3>
-<h3 align="left">📫 How to reach me?🤔</h3>
-<h4 align="left">Email : sgkashyap2000@gmail.com | Alternative Email: sgkashyap881@gmail.com </h4>
+# 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
+[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sgkashyap2000@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UrstrulySGK)
 
 # 💻Tech Stack
-<h3 align="left">Languages: </h3>
-<p align="left" style:"justify-content:space-around";>
-<a href="https://html.com/"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="50" height="50">
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50">
-<a href="https://www.javascript.com/"> <img src="https://www.icone-png.com/png/52/52497.png" width="50" height="50">
-<a href="https://www.java.com/en/"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width="40" height="50">
-</p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Microsoft Word](	https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-ww/microsoft-365/word)
+[![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
-<h3 align="left">Tools and Technologies: </h3>
-<p align="left" style:"justify-content:space-around";>
-<a href="https://code.visualstudio.com/"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50" height="50">
-<a href="https://www.microsoft.com/en-ww/microsoft-365/word"> <img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-8.png" width="50" height="50">
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"> <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" width="50" height="50">
-</p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&show_icons=true&locale=en&layout=compact"> </p>
+# 📊GitHub Stats
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&show_icons=true&locale=en&layout=compact"></p>
   
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&show_icons=true&locale=en"></p>
   
