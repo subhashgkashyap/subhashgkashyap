@@ -6,7 +6,7 @@
 <h3 align="left">📫 How to reach me?🤔</h3>
 <h4 align="left">Email : sgkashyap2000@gmail.com | Alternative Email: sgkashyap881@gmail.com </h4>
 
-<h3 align="left">Languages: </h3>
+# 💻Tech Stack
 <p align="left" style:"justify-content:space-around";>
 <a href="https://html.com/"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="50" height="50">
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50">
