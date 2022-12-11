@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m ＳＵＢＨＡＳＨ Ｇ ＫＡＳＨＹＡＰ</h1>
-<h4 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘢𝘯𝘥 𝘥𝘦𝘴𝘪𝘨𝘯👍</h4>
+<h2 align="center">👋 Hi, I’m ＳＵＢＨＡＳＨ Ｇ ＫＡＳＨＹＡＰ</h2>
+<h5 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘢𝘯𝘥 𝘥𝘦𝘴𝘪𝘨𝘯👍</h5>
 
 <h3 align="left">👀 I’m interested in Frontend and Backend Development</h3>
 <h3 align="left">🌱 I’m currently learning Core Java</h3>
