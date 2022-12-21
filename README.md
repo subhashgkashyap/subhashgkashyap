@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Subhash G Kashyap</h1>
-<h3 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 | <br> 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘥𝘦𝘴𝘪𝘨𝘯👍🏻</h3>
+<h3 align="center">𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘊𝘰𝘥𝘦𝘳 <br> 𝘉𝘰𝘰𝘬𝘴, 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘥𝘦𝘴𝘪𝘨𝘯👍🏻</h3>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
@@ -14,6 +14,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 # 📊GitHub Stats
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&hide_border=true&theme=dark"></p>
