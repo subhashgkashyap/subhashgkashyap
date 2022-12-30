@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Subhash G Kashyap</h1>
-<h3 align="center"> ᴊᴜꜱᴛ ᴀɴᴏᴛʜᴇʀ ɴᴏᴏʙ ᴄᴏᴅᴇʀ </h3>
+<h3 align="center">  </h3>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
