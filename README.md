@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Subhash G Kashyap</h1>
-<h3 align="center">  </h3>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome!;I'm%20currently%20learning%20Java;Trying%20to%20explore%20new%20things&center=true&width=500&height=50" alt="Typing SVG"/> </h3>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
