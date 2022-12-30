@@ -18,7 +18,7 @@
 [![Canva](https://img.shields.io/badge/Canva-%2301C3CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
 # 📊GitHub Stats
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashgkashyap&hide_border=true&theme=dark"></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashgkashyap&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&hide_border=true&show_icons=true&locale=en&theme=dark"></p>
   
