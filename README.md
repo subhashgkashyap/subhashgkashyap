@@ -20,11 +20,8 @@
 
 # 📊GitHub Stats
 
-![Stats](https://github-stats-alpha.vercel.app/api?username=subhashgkashyap&cc=000&tc=fff&ic=fff&bc=000)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhashgkashyap&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhashgkashyap&theme=radical)
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashgkashyap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashgkashyap&theme=dark&hide_border=true&include_all_commits=false&count_private=true"></p>
 
 <!---
