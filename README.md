@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Subhash </h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=WELCOME!;Cloud%20and%20Infrastructure%20services;I'm%20currently%20learning%20Java;Trying%20to%20explore%20new%20things" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=WELCOME!;I'm%20currently%20learning%20Cloud%20and%20Infrastructure%20Services;Trying%20to%20explore%20new%20things" alt="Typing SVG"/></a>
 </h3>
 
 ![](https://github.com/subhashgkashyap/subhashgkashyap/blob/main/github-wrapped.png?raw=true)
