@@ -20,6 +20,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2301C3CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
+# 📊GitHub Stats
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&theme=dracula&show_icons=true"> </p>
+
 <!--
 # 📊GitHub Stats
 
