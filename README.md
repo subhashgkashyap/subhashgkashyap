@@ -47,6 +47,12 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&theme=dracula&show_icons=true"> </p>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashgkashyap&theme=dracula&hide_border=false"> </p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashgkashyap&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
+
+# ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=subhashgkashyap">
+</a>
+<a href="https://github.com/subhashgkashyap?tab=followers"><img src="https://img.shields.io/github/followers/subhashgkashyap?label=Followers&style=social" alt="GitHub Badge"></a> <br>
 <!--
 # 📊GitHub Stats
 
