@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhashgurumurthykashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/SGKASHYAP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp;
 <!-- <a href="https://twitter.com/UrsTrulySGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp; -->
 <!-- <a href="https://www.hackerrank.com/profile/SGKASHYAP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp; -->
 </p>
