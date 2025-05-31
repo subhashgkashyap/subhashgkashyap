@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/subhashgurumurthykashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp;
 <a href="https://www.hackerrank.com/profile/SGKASHYAP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp;
-<!-- <a href="https://twitter.com/UrsTrulySGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp; -->
+<!-- <a href="https://x.com/GlobalAttempt66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp; -->
 <!-- <a href="https://www.hackerrank.com/profile/SGKASHYAP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="subhashgkashyap" height="30" width="40" /></a> &nbsp; -->
 </p>
 
@@ -44,12 +44,14 @@
 </p>
 
 
-# 📊GitHub Stats
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&theme=dracula&show_icons=true"> </p>
+<!-- # 📊GitHub Stats --->
+<h3 align="left">GitHub Stats</h3>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashgkashyap&show_icons=true"> </p>
 <!-- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashgkashyap&theme=dracula&hide_border=false"> </p> -->
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashgkashyap&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashgkashyap&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 
-# ❤ Views and Followers
+<!-- # ❤ Views and Followers --->
+<h3 align="left">Views and Followers</h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=subhashgkashyap">
 </a>
